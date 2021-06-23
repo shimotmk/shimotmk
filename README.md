@@ -11,4 +11,4 @@
 
 [website]: https://shimotmk.com
 [twitter]: https://twitter.com/shimo_tmk
-[youtube]: https://youtube.com/UChbGtmE4qQP_HrPqMCxgoxw
+[youtube]: https://www.youtube.com/channel/UChbGtmE4qQP_HrPqMCxgoxw
