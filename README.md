@@ -12,9 +12,3 @@
 [website]: https://profiles.wordpress.org/shimotomoki/
 [twitter]: https://twitter.com/shimo_tmk
 [youtube]: https://www.youtube.com/channel/UChbGtmE4qQP_HrPqMCxgoxw
-
-## My GitHub Stats:
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimotmk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimotmk&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
