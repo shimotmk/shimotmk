@@ -1,14 +1,11 @@
-## Hi there, I'm Tomoki Shimomura
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/shimo_tmk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshimo_tmk&screen_name=shimo_tmk)
+## Hi 👋, I'm Tomoki Shimomura
 
 ## Connect with me:
 
-[<img align="left" alt="https://profiles.wordpress.org/shimotomoki/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.youtube.com/channel/UChbGtmE4qQP_HrPqMCxgoxw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="shimo_tmk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+- I created the premium WordPress theme [Mone](https://mone-wp.com)
+- [WordPress Profiles](https://profiles.wordpress.org/shimotomoki)
+- [X](https://x.com/shimo_tmk)
+- [YouTube](https://www.youtube.com/channel/UChbGtmE4qQP_HrPqMCxgoxw)
+- [Blog](https://shimomuratomoki.com)
+- [Instagram](https://www.instagram.com/tomoki_shimomura)
 
-[website]: https://profiles.wordpress.org/shimotomoki/
-[twitter]: https://twitter.com/shimo_tmk
-[youtube]: https://www.youtube.com/channel/UChbGtmE4qQP_HrPqMCxgoxw
