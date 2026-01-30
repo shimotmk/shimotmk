@@ -2,6 +2,8 @@
 
 I don't want to create something that is better than others, I just want to create something that will be loved.
 
+I am looking for sponsors to support my open-source software (OSS) activities. Please contact me [here](mailto:shimotmk1104@gmail.com).
+
 ## Connect with me:
 
 - I created the premium WordPress theme [Mone](https://mone-wp.com)
